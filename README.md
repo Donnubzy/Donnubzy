@@ -2,7 +2,7 @@
 - 👀 I’m interested in cross platform mobile app development 
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on flutter projects
-- 📫 How to reach me ? send an email to tochionuobia@gmail.com
+- 📫 How to reach me ? send an email to onuobiatochi@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: In addition to mobile app development, i'm also a professional footballer and a content creator.
 
