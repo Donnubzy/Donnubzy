@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tochi 
 - 👀 I’m interested in cross platform mobile app development and web development.
-- 🌱 I’m currently learning html,css and javascript.
+- 🌱 Currently learning html,css and javascript.
 - 💞️ With my current expertise in dart and flutter, I’m looking to collaborate on flutter projects.
 - 📫 How to reach me ? send an email to onuobiatochi@gmail.com.
 - 😄 Pronouns: He.
