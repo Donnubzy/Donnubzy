@@ -1,12 +1,13 @@
 
    WELCOME TO MY GITHUB !!!   
+________________________________________________________________________________   
  Onuobia Tochi . Software Developer
- 
+________________________________________________________________________________
 Flutter . Dart . Html . Css . Javascript(in progress)
-
+________________________________________________________________________________
 - Heavily curious in understanding building with AI as an assitant.
 - Looking to connect and collaborate on a lot of Flutter and Frontend projects.
-
+________________________________________________________________________________
 CONTACT ME VIA : onuobiatochi@gmail.com
 
 <!---
