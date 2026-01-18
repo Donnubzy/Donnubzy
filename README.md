@@ -5,7 +5,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________
 Flutter . Dart . Html . Css . Javascript(in progress)
 ___________________________________________________________________________________________
-- Heavily curious in understanding building with AI as an assistant for faster development and deployment.
+- Heavily curious in understanding & building with AI as an assistant for faster development and deployment.
 - Looking to connect and collaborate on a lot of Flutter and Frontend projects.
 ___________________________________________________________________________________________
 CONTACT ME via :   onuobiatochi@gmail.com
